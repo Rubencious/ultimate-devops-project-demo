@@ -316,9 +316,4 @@ func createClient(ctx context.Context, svcAddr string) (*grpc.ClientConn, error)
 	)
 }
 
-<<<<<<< HEAD
-=======
-//new changes are coming
-//new changes are coming 2
-
->>>>>>> 6e039c7 (check changes p4)
+// add new function to create a product catalog client
