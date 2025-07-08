@@ -5,7 +5,7 @@ name: product-catalog-ci
 on: 
   push:
       branches:
-        - githubcicheck
+        - githubcicheck2
   pull_request:
       branches:
         - main
